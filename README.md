@@ -4,11 +4,11 @@
 
 
 <div align="center">
-<h3> ⚜️ Lis | 💻 DevOps | 🌏 Salvador, BR </h3> 
+<h3> ⚜️ Lis | 💻 CyberSecurity | 🌏 Salvador, BR </h3> 
 </div>
 
 
-💼 Intern at [SENAI CIMATEC](http://www.senaicimatec.com.br/) in DevOps
+💼 Employee at MedVida in CyberSecurity
 
 🎓 Computer Engineering Student at [SENAI CIMATEC](http://www.senaicimatec.com.br/)
 
