@@ -7,9 +7,6 @@
 <h3> ⚜️ Lis | 💻 CyberSecurity | 🌏 Salvador, BR </h3> 
 </div>
 
-
-💼 Employee at MedVida in CyberSecurity
-
 🎓 Computer Engineering Student at [SENAI CIMATEC](http://www.senaicimatec.com.br/)
 
 📚 Learning all about CyberSecurity on [TryHackMe](https://tryhackme.com/p/LisAzevedo) 
