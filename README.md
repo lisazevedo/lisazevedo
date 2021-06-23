@@ -11,6 +11,6 @@
 
 📚 Learning all about CyberSecurity on [TryHackMe](https://tryhackme.com/p/LisAzevedo) 
 
-<a href="https://www.linkedin.com/in/lis-azevedo/"><img height="17" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp; Reach me on [Linkedin]("https://www.linkedin.com/in/lis-azevedo/)
+<a href="https://www.linkedin.com/in/lis-azevedo/"><img height="17" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp; Reach me on [Linkedin]("https://www.linkedin.com/in/lis-azevedo/")
 
 🐕 Fun fact: I love my two dogs (Ice and Memo)
