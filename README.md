@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3> ⚜️ Lis | 💻 CyberSecurity | 🌏 Salvador, BR </h3> 
+<h3> ⚜️ Lis | 💻 CyberSecurity | 🌏 Brazil </h3> 
 </div>
 
 🎓 Computer Engineering Student at [SENAI CIMATEC](http://www.senaicimatec.com.br/)
