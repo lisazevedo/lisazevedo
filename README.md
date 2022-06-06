@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3> ⚜️ Lis | 💻 Cyber Security | 🌏 Brazil </h3> 
+<h3> ⚜️ Lés | 💻 Cyber Security | 🌏 Brazil </h3> 
 </div>
 
 🎓 Computer Engineering Student at [SENAI CIMATEC](http://www.senaicimatec.com.br/)
