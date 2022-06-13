@@ -15,3 +15,4 @@
 
 <a href="https://www.linkedin.com/in/lis-azevedo/"><img height="17" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp; Reach me on [Linkedin](https://www.linkedin.com/in/lis-azevedo/)
 
+<a href="https://tracker.gg/valorant/profile/riot/Voz%20de%20Garotinho%23ACE1/overview"><img height="17" src="https://seeklogo.com/images/V/valorant-logo-3D72D9117F-seeklogo.com.png"></a>&nbsp;&nbsp; Let's play Valorant together
