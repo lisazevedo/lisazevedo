@@ -15,7 +15,7 @@
 
 🎓 Computer Engineering Student at [SENAI CIMATEC](http://www.senaicimatec.com.br/)
 
-📎 I use daily `.sh` `.py` `.yaml`
+📎 I use daily `.sh` `.py` `.yaml` `.tf`
 
 <img height="17" src="https://png.pngitem.com/pimgs/s/708-7089515_aws-logo-png-free-stock-aws-logo-png.png"> Studying for AWS Cloud Practitioner Certification 
 
