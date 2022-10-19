@@ -17,6 +17,5 @@
 
 📎 I use daily `.sh` `.py` `.yaml` `.tf`
 
-<img height="17" src="https://png.pngitem.com/pimgs/s/708-7089515_aws-logo-png-free-stock-aws-logo-png.png"> Studying for AWS Cloud Practitioner Certification 
 
 <a href="https://www.linkedin.com/in/lis-azevedo/"><img height="17" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp; Reach me on [Linkedin](https://www.linkedin.com/in/lis-azevedo/)
