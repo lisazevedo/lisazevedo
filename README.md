@@ -13,7 +13,7 @@
 
 📚 Learning all about Cloud Security on [TryHackMe](https://tryhackme.com/p/LisAzevedo) and [HackTheBox](https://app.hackthebox.com/profile/87842) 
 
-🎓 Computer Engineering
+🎓 Computer Engineer
 
 📎 I use daily `.sh` `.py` `.yaml` `.tf`
 
