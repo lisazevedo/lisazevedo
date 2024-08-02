@@ -6,14 +6,14 @@
 </div>
 
 <div align="center">
-<h3> ⚜️ Lés | 💻 CyberSecurity Developer | 🌏 Brazil </h3> 
+<h3> ⚜️ Lés | 💻 Cybersecurity Analyst | DevSecOps Engineer </h3> 
 </div>
 
-🖥️ CyberSecurity Developer at [Mercado Livre](https://www.mercadolivre.com.br/)
+🖥️ CyberSecurity Analyst at [Mercado Livre](https://www.mercadolivre.com.br/)
 
 📚 Learning all about Cloud Security on [TryHackMe](https://tryhackme.com/p/LisAzevedo) and [HackTheBox](https://app.hackthebox.com/profile/87842) 
 
-🎓 Computer Engineer
+🎓 B.Sc. in Computer Engineering
 
 📎 I use daily `.sh` `.py` `.yaml` `.tf`
 
