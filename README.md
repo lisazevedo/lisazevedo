@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3> ⚜️ Lés | 💻 CyberSecurity & DevOps Engineer </h3> 
+<h3> 💻 CyberSecurity & DevOps Engineer </h3> 
 </div>
 
 🖥️ CyberSecurity Engineer at [Mercado Livre](https://www.mercadolivre.com.br/)
